@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Github\\TicTacToe\\Source\\TicTacToe\\TicTacToe.Build.cs",
+		"D:\\Github\\TicTacToe\\Source\\TicTacToe.Target.cs",
+		"D:\\Github\\TicTacToe\\Source\\TicTacToeEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
